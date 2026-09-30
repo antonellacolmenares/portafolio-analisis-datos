@@ -13,6 +13,8 @@ Dashboard interactivo de una empresa ficticia de snacks: ventas por mes, canal, 
 - **Herramientas:** Excel (SUMIFS, validación de datos, gráficos dinámicos).
 - **Archivo:** [`Dashboard_Ventas_Andina_Snacks.xlsx`](Dashboard_Ventas_Andina_Snacks.xlsx)
 
+![Vista del dashboard de ventas](dashboard_andina_snacks.png)
+
 ### 2. Segmentación de clientes RFM · Python
 
 Análisis de una tienda online ficticia: limpieza de datos, cálculo de recencia, frecuencia y valor monetario, segmentación en 7 grupos de clientes y recomendaciones comerciales para cada uno.
